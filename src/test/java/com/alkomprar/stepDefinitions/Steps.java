@@ -1,2 +1,4 @@
-package com.alkomprar.stepDefinitions;public @interface Steps {
+package com.alkomprar.stepDefinitions;
+
+public @interface Steps {
 }

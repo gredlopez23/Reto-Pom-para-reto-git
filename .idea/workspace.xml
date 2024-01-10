@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a28acf-3360-43ef-8c89-e20373eb999e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pages/PerfilPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pages/RegistroPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pages/ValidacionCorreo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/CorreoSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/PerfilSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistroSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/runner/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegistroStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feautres/RegistroDeUsuario.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/Steps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -93,6 +72,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alkomprar.stepDefinitions" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.alkomprar.utils" />
     </key>
